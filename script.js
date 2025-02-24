@@ -92,4 +92,6 @@ function prevSlide() {
 
 function rsvp() {
     alert("Thank you for RSVPing! See you at the wedding!");
+    window.location.href = "https://your-rsvp-link.com"; // Replace with the actual RSVP link
 }
+
