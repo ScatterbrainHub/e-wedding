@@ -8,13 +8,13 @@ body {
 .container {
     position: relative;
     margin: 50px auto;
-    width: 500px;
+    width: 300px;
 }
 
 /* Envelope Styling */
 .envelope {
-    width: 500px;
-    height: 350px;
+    width: 300px;
+    height: 200px;
     background-color: #d4af37;
     position: absolute;
     top: 0;
@@ -30,7 +30,7 @@ body {
 
 /* Invitation Card */
 .invitation {
-    width: 480px;
+    width: 280px;
     background-color: white;
     position: absolute;
     top: 10px;
